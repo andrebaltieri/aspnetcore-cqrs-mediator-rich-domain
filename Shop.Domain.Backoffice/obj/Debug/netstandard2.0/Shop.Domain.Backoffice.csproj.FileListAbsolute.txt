@@ -1,0 +1,12 @@
+C:\dev\Shop\Shop.Domain.Backoffice\bin\Debug\netstandard2.0\Shop.Domain.Backoffice.deps.json
+C:\dev\Shop\Shop.Domain.Backoffice\bin\Debug\netstandard2.0\Shop.Domain.Backoffice.dll
+C:\dev\Shop\Shop.Domain.Backoffice\bin\Debug\netstandard2.0\Shop.Domain.Backoffice.pdb
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.csprojAssemblyReference.cache
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.csproj.CoreCompileInputs.cache
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.AssemblyInfoInputs.cache
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.AssemblyInfo.cs
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.dll
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.pdb
+C:\dev\Shop\Shop.Domain.Backoffice\bin\Debug\netstandard2.0\Shop.Domain.Shared.dll
+C:\dev\Shop\Shop.Domain.Backoffice\bin\Debug\netstandard2.0\Shop.Domain.Shared.pdb
+C:\dev\Shop\Shop.Domain.Backoffice\obj\Debug\netstandard2.0\Shop.Domain.Backoffice.csproj.CopyComplete

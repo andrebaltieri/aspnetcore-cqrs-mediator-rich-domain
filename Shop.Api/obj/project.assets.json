@@ -1,0 +1,255 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flunt/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
+      "MediatR/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Shop.Domain.Backoffice/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Shop.Domain.Shared": "1.0.0",
+          "flunt": "1.0.4",
+          "mediatr": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Domain.Backoffice.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Domain.Backoffice.dll": {}
+        }
+      },
+      "Shop.Domain.Backoffice.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Shop.Domain.Backoffice": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Domain.Backoffice.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Domain.Backoffice.Infra.dll": {}
+        }
+      },
+      "Shop.Domain.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "flunt": "1.0.4",
+          "mediatr": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Domain.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Domain.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flunt/1.0.4": {
+      "sha512": "zsKA3Wol1+UeQBYtXuO56+ua6DBUpD5dcp3iAa86W5WcMLOWBMaDXKdqIrrLNgQUOW/U/svecb4ldgqwnC9XDQ==",
+      "type": "package",
+      "path": "flunt/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.4.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
+    "MediatR/8.0.1": {
+      "sha512": "nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "type": "package",
+      "path": "mediatr/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.8.0.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
+      "sha512": "qGa+dbfrpk6y01swgc0uM+jG5tkb5xVeY1P4iByd3NQCDO7nmrMBnBRoMGhKlSigQ6iWXDiwOpzC01W4xrJxLg==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+      "sha512": "eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Shop.Domain.Backoffice/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Domain.Backoffice/Shop.Domain.Backoffice.csproj",
+      "msbuildProject": "../Shop.Domain.Backoffice/Shop.Domain.Backoffice.csproj"
+    },
+    "Shop.Domain.Backoffice.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Domain.Backoffice.Infra/Shop.Domain.Backoffice.Infra.csproj",
+      "msbuildProject": "../Shop.Domain.Backoffice.Infra/Shop.Domain.Backoffice.Infra.csproj"
+    },
+    "Shop.Domain.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Domain.Shared/Shop.Domain.Shared.csproj",
+      "msbuildProject": "../Shop.Domain.Shared/Shop.Domain.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.0",
+      "Shop.Domain.Backoffice >= 1.0.0",
+      "Shop.Domain.Backoffice.Infra >= 1.0.0",
+      "Shop.Domain.Shared >= 1.0.0",
+      "flunt >= 1.0.4",
+      "mediatr >= 8.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\balta\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\Shop\\Shop.Api\\Shop.Api.csproj",
+      "projectName": "Shop.Api",
+      "projectPath": "C:\\dev\\Shop\\Shop.Api\\Shop.Api.csproj",
+      "packagesPath": "C:\\Users\\balta\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\Shop\\Shop.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\balta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\dev\\Shop\\Shop.Domain.Backoffice.Infra\\Shop.Domain.Backoffice.Infra.csproj": {
+              "projectPath": "C:\\dev\\Shop\\Shop.Domain.Backoffice.Infra\\Shop.Domain.Backoffice.Infra.csproj"
+            },
+            "C:\\dev\\Shop\\Shop.Domain.Backoffice\\Shop.Domain.Backoffice.csproj": {
+              "projectPath": "C:\\dev\\Shop\\Shop.Domain.Backoffice\\Shop.Domain.Backoffice.csproj"
+            },
+            "C:\\dev\\Shop\\Shop.Domain.Shared\\Shop.Domain.Shared.csproj": {
+              "projectPath": "C:\\dev\\Shop\\Shop.Domain.Shared\\Shop.Domain.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
+          "flunt": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          },
+          "mediatr": {
+            "target": "Package",
+            "version": "[8.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

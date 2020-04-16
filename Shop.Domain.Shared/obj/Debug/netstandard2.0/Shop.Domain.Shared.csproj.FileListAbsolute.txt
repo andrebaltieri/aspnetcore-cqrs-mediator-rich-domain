@@ -1,0 +1,9 @@
+C:\dev\Shop\Shop.Domain.Shared\bin\Debug\netstandard2.0\Shop.Domain.Shared.deps.json
+C:\dev\Shop\Shop.Domain.Shared\bin\Debug\netstandard2.0\Shop.Domain.Shared.dll
+C:\dev\Shop\Shop.Domain.Shared\bin\Debug\netstandard2.0\Shop.Domain.Shared.pdb
+C:\dev\Shop\Shop.Domain.Shared\obj\Debug\netstandard2.0\Shop.Domain.Shared.csprojAssemblyReference.cache
+C:\dev\Shop\Shop.Domain.Shared\obj\Debug\netstandard2.0\Shop.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\dev\Shop\Shop.Domain.Shared\obj\Debug\netstandard2.0\Shop.Domain.Shared.AssemblyInfoInputs.cache
+C:\dev\Shop\Shop.Domain.Shared\obj\Debug\netstandard2.0\Shop.Domain.Shared.AssemblyInfo.cs
+C:\dev\Shop\Shop.Domain.Shared\obj\Debug\netstandard2.0\Shop.Domain.Shared.dll
+C:\dev\Shop\Shop.Domain.Shared\obj\Debug\netstandard2.0\Shop.Domain.Shared.pdb

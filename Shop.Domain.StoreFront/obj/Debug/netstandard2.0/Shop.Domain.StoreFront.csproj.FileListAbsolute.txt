@@ -1,0 +1,9 @@
+C:\dev\Shop\Shop.Domain.StoreFront\obj\Debug\netstandard2.0\Shop.Domain.StoreFront.csprojAssemblyReference.cache
+C:\dev\Shop\Shop.Domain.StoreFront\obj\Debug\netstandard2.0\Shop.Domain.StoreFront.csproj.CoreCompileInputs.cache
+C:\dev\Shop\Shop.Domain.StoreFront\obj\Debug\netstandard2.0\Shop.Domain.StoreFront.AssemblyInfoInputs.cache
+C:\dev\Shop\Shop.Domain.StoreFront\obj\Debug\netstandard2.0\Shop.Domain.StoreFront.AssemblyInfo.cs
+C:\dev\Shop\Shop.Domain.StoreFront\bin\Debug\netstandard2.0\Shop.Domain.StoreFront.deps.json
+C:\dev\Shop\Shop.Domain.StoreFront\bin\Debug\netstandard2.0\Shop.Domain.StoreFront.dll
+C:\dev\Shop\Shop.Domain.StoreFront\bin\Debug\netstandard2.0\Shop.Domain.StoreFront.pdb
+C:\dev\Shop\Shop.Domain.StoreFront\obj\Debug\netstandard2.0\Shop.Domain.StoreFront.dll
+C:\dev\Shop\Shop.Domain.StoreFront\obj\Debug\netstandard2.0\Shop.Domain.StoreFront.pdb

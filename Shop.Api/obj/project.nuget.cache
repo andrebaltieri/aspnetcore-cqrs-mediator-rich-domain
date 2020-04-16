@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sVg2MjEBoJB+hRh2OstGC3rZ5xo2lhb9m7anIfyJGRsQ5QWqKcYFhcEiuCDIOYNbEkkFsmCNCjs5PZ+bMmEJbw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Shop\\Shop.Api\\Shop.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balta\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Users\\balta\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\balta\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\balta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
